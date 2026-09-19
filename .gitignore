@@ -1,0 +1,30 @@
+# General
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Environments
+venv/
+env/
+.env
+.env.local
+.env.*
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Node / Next.js
+node_modules/
+dist/
+.next/
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
